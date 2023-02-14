@@ -10,6 +10,7 @@ const Header = () => {
         className="img-fluid netflix-img mb-3"
         width={100}
         height={100}
+        alt="Netflix Github Logo"
       />
       <div className="flex-1">
         <h1>Netflix, Inc.</h1>

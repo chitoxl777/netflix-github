@@ -5,7 +5,6 @@ import Repos from "./Repos";
 import axios from "axios";
 import { Route, Routes } from "react-router-dom";
 import Commits from "./pages/Commits";
-import Header from "./Header";
 
 function App() {
   const [repos, setRepos] = useState("");
