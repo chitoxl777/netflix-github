@@ -1,0 +1,21 @@
+.container-lg {
+  max-width: 1012px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.netflix-img {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 6px;
+  box-shadow: 0 0 0 1px rgba(240, 246, 252, 0.1);
+  display: inline-block;
+  flex-shrink: 0;
+  line-height: 1;
+  overflow: hidden;
+  vertical-align: middle;
+  margin-right: 24px;
+}
+
+h1 {
+  color: #c9d1d9;
+}
